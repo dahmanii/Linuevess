@@ -1,0 +1,66 @@
+***************************
+Roles existants et pouvoirs
+***************************
+/***********/
+/** ADMIN **/
+/***********/
+Id : Admin
+Pwd : Linuevess
+
+Pouvoirs :
+- Tous les pouvoirs sur le site (création / édition / suppression).
+
+
+/*******************/
+/** LINUEVE USER **/
+/******************/
+Exemple : compte de Thibaut Fux
+- Peut afficher toutes les pages existantes s'il n'en n'a pas créer, sinon affiche toutes les pages qu'il a crée
+- Peut créer de nouvelles pages
+- Peut supprimer/modifier les pages crées qu'il a crée
+- Peut personnaliser le thème actuel installé
+- Peut activer/désactiver/modifier des widgets
+- Peut éditer le menu
+- Peut consulter/modifier/supprimer le profil des utilisateurs (hors admin)
+- Peut ajouter de nouveaux utilisateurs (hors admin)
+
+
+/******************/
+/** LINESS USER **/
+/*****************/
+- Peut afficher toutes les pages existantes s'il n'en n'a pas créer, sinon affiche toutes les pages qu'il a crée
+- Peut créer de nouvelles pages
+- Peut supprimer/modifier les pages crées qu'il a crée
+- Peut personnaliser le thème actuel installé
+- Peut activer/désactiver/modifier des widgets
+- Peut éditer le menu
+- Peut consulter/modifier/supprimer le profil des utilisateurs (hors admin)
+- Peut ajouter de nouveaux utilisateurs (hors admin)
+
+
+
+**************************************
+Utilisateurs existants et intervention
+**************************************
+/***********/
+/** ADMIN **/
+/***********/
+Responsable de la création de tout ce qui n'est pas affilier aux utilisateurs "Linueve Creator" & "Liness Creator"
+
+
+/**********************/
+/** LINUEVE CREATOR **/
+/*********************/
+Responsable de la création de tout la section appartenant à Linueve
+
+
+/*********************/
+/** LINESS CREATOR **/
+/********************/
+Responsable de la création de tout la section appartenant à Liness
+
+
+***********
+Information
+***********
+Pour changer les droits d'un droit d'un utilisateur, voir avec l'admin du site (édition dans "User Role Editor")
